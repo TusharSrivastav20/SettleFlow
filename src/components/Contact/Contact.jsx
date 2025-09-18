@@ -13,9 +13,9 @@ const Contact = () => {
         <div className="bg-white p-8 rounded-3xl border-2 border-blue-500 shadow-lg">
           <h3 className="text-2xl font-bold text-gray-800 mb-6">Contact Information</h3>
           <ul className="space-y-6">
-            <li>📧 hello@settleflow.in</li>
-            <li>📞 +1 (555) 123-4567</li>
-            <li>📍 Noida, India</li>
+            <li>📧 info.settleflow@gmail.cpm</li>
+            <li>📞 +91-9625893070</li>
+            <li>📍 Noida, Uttar Pradesh, India</li>
           </ul>
         </div>
         <form className="bg-white p-8 rounded-3xl border-2 shadow-lg border-blue-500 ">
