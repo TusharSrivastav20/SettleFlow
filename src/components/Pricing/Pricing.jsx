@@ -3,19 +3,19 @@ import React from "react";
 const plans = [
   {
     name: "Starter",
-    price: "Start your journey with us for ₹2999 onwards",
+    price: "₹3999",
     desc: "Perfect for small businesses",
-    features: ["Auto reconciliation", "Daily MIS reports", "Secure storage (25GB)", "Email support"],
+    features: ["Auto reconciliation", "Daily MIS reports", "Secure storage (5GB)", "Email support"],
   },
   {
     name: "Growth",
-    price: "Custom",
+    price: "₹5999",
     desc: "For growing companies",
     features: ["All Starter features", "Priority support", "ERP & API integrations", "Extended storage"],
   },
   {
     name: "Enterprise",
-    price: "Custom",
+    price: "₹9999",
     desc: "For large organizations",
     features: ["Dedicated onboarding", "Custom rules & workflows", "Unlimited storage", "Advanced automation"],
   },
