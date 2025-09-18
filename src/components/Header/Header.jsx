@@ -10,7 +10,7 @@ const Header = () => {
     <header className="bg-white shadow-sm sticky top-0 z-50 border-b border-gray-200">
       <nav className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
         <div className="flex items-center space-x-8">
-          <img src="/SettleLogo2.jpeg" alt="SettleFlow" className="h-10 mr-2" />
+          <img src="/Logo.png" alt="SettleFlow" className="h-10 mr-2" />
           <ul className="hidden md:flex items-center space-x-6 text-sm lg:text-base">
             <li><a href="#home" className="hover:text-blue-600 font-semibold">Home</a></li>
             <li><a href="#features" className="hover:text-blue-600 font-semibold">Features</a></li>
