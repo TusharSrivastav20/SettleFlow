@@ -3,7 +3,7 @@ import React from "react";
 const plans = [
   {
     name: "Starter",
-    price: "$9,999/month",
+    price: "Start your journey with us for ₹2999 onwards",
     desc: "Perfect for small businesses",
     features: ["Auto reconciliation", "Daily MIS reports", "Secure storage (25GB)", "Email support"],
   },
