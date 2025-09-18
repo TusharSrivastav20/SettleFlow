@@ -7,7 +7,7 @@ const About = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6">About SettleFlow</h2>
           <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-8">
-            At SettleFlow, we believe finance teams shouldn't waste hours chasing mismatches or juggling spreadsheets.
+            At SettleFlow, finance teams shouldn't waste hours chasing mismatches or juggling spreadsheets.
           </p>
         </div>
         <div className="grid lg:grid-cols-2 gap-12 items-start">
@@ -23,7 +23,7 @@ const About = () => {
                 With secure integrations, intelligent matching algorithms, and audit-ready reporting, SettleFlow has already helped growing businesses save hundreds of hours every month while improving accuracy and compliance.
             </p>
             <div className="text-center mt-5 p-4 bg-gray-50 rounded-2xl">
-              <p className="text-gray-700 font-medium">📍 Headquartered in Noida, India</p>
+              <p className="text-gray-700 font-medium">📍 Noida, Uttar Pradesh, India</p>
               <p className="text-gray-600 mt-2">Serving forward-thinking companies across industries</p>
             </div>
           </div>
