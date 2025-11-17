@@ -40,7 +40,7 @@ const About = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-white p-6 rounded-2xl text-center border border-gray-200 shadow-lg">
                 <div className="text-3xl font-bold text-blue-600 mb-2">100+</div>
-                <div className="text-gray-600 font-medium">Hours Saved Monthly</div>
+                <div className="text-gray-600 font-medium">Hours Saved Weekly</div>
               </div>
               <div className="bg-white p-6 rounded-2xl text-center border border-gray-200 shadow-lg">
                 <div className="text-3xl font-bold text-green-600 mb-2">99%+</div>
